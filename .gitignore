@@ -1,0 +1,3 @@
+## Ignore everything but the gutenberg.rb file
+gutenberg_fetch/*
+!gutenberg_fetch/gutenberg.rb
